@@ -2,6 +2,12 @@
 
 Project from [React Nanodegree at Udacity](https://www.udacity.com/course/react-nanodegree--nd019)<br>
 
+## My Reads
+
+Simple Project using ReactJS<br>
+This app is about using React and React Router.<br>
+Handle state and navigate between page with React Router.
+
 ```
 yarn install
 yarn start
@@ -11,5 +17,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Something Missing?
 
-If you have ideas or feedback on this project let me know.<br>
-Thanks!
+If you have any ideas or feedbacks on this project, please let me know.<br>
+Thank you!
